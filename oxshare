@@ -1,0 +1,3 @@
+curl -s --user 'api:8340c210e8f07d78be85bb827132e88d-c485922e-0fc76ede' -X PUT \
+   https://api.mailgun.net/v3/domains/oxshare.com/credentials/alice \
+   -F password='Lebanon@2020'
